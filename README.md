@@ -1,4 +1,4 @@
-# Facial-Emotion-Identification
+# Facial Emotion Identification with CNN architectures
 ## FER2013 dataset - https://www.kaggle.com/nicolejyt/facialexpressionrecognition (.csv file)
 
 Deep Convolutional Neural Networks (DCNNs) and Convolutional Neural Networks (CNNs) have been successfully used for facial emotion recognition (FER) tasks.
